@@ -1,0 +1,6 @@
+# Uygulamanın çalışması için gerekli Python kütüphanelerini listeyin
+
+Flask==2.0.2
+praw==7.5.0
+pymysql==1.0.2
+selenium==3.141.0
